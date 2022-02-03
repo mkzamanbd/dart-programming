@@ -4,10 +4,13 @@
 - If/Else 
 - Loop Control 
     - for loop
-    - while loop
-- break/Continue 
+    - while loop 
+    - do ... while loop
+- Break/Continue 
+- Where
 - Switch Case 
-- assert 
+- Enum
+- Assert 
 - try, throw, catch, finally  
 
 Thanks.
