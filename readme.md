@@ -10,11 +10,11 @@
 - Loop Control 
     - for loop
     - while loop 
-    - do ... while loop
+    - do ... while loop 
 - Break/Continue 
 - Where
 - Enum
 - Assert 
-- try, throw, catch, finally  
+- try, throw, catch, finally 
 
 Thanks.
