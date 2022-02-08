@@ -3,6 +3,7 @@ import 'dart:math' as math;
 void main(List<String> args) {
   var min = -1, max = 2;
   var val = min + math.Random().nextInt(max - min);
+  // print(math.Random().nextInt(max - min));
 
   print("The value is: $val");
 
