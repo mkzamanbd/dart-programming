@@ -1,4 +1,5 @@
 import 'class_in_dart.dart';
+import 'methods_in_dart.dart';
 
 void main(List<String> args) {
   // object or, instance
@@ -43,4 +44,7 @@ void main(List<String> args) {
 
   print(list2);
   print(list1);
+
+  // var abc = Animal("acc");
+  // abc._x;
 }
