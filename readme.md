@@ -21,6 +21,17 @@
         - This keyword 
 - Operators
 - Singleton
+- Inheritance
+    - Inheritance concept is achieved by using the Extends keyword
+    - class Duck extends Bird{} - Duck(derived, subclass), Bird (base, superclass)
+    - Extends is used for SHARING BEHAHIOR between SUPERCLASS & SUBCLASS
+    - FIELDS @ METHODS inside the SUPERCLASS are AVAILABLE in the SUBCLASS
+    - The SUPERCLASS can be accessed by using the super keyword
+    - All Dart Classes EXTEND ONLY ONE CLASS (Object Class by default)
+    - The concept of POLIMORPHISM can be achieved in two ways:
+        - @overriding methods
+        - @overloading methods (optional parameters)
+    - You can TIGHTEN a type by using the covariant keyword
 
 
 ## Best tutorial websites 
