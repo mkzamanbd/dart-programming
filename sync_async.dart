@@ -1,9 +1,9 @@
 void main(List<String> args) {
   // print("sum(1, 2) -> ${sum(1, 2)}");
 
-  // var a = numNormal(10);
-  var a = numGenerator(10);
-  print("The last value is: ${a.last}");
+  var a = numNormal(10);
+  // var a = numGenerator(10);
+  // print("The last value is: ${a.last}");
   print("The first value is: ${a.first}");
 }
 
